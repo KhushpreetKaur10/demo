@@ -1,4 +1,4 @@
 # demo
 my first demo repository
 <br>
-author - khushi
+author - khushi sandhu
